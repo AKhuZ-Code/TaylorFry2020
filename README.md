@@ -7,13 +7,16 @@ Date: 04/07/2020
 # Built with...
 
 • Python ()
+
 • R
 
 # Motivation 
 
 Problem Statement:
 
-<b>(Given the datasets) "Electroland would like you to produce a short-term forecasting model to predict demand for electricity"</b>
+<b>(a) "Electroland would like you to produce a short-term forecasting model to predict demand for electricity"</b>
+
+<b>(b) "Electroland would like you to provide guidance on how you expect demand for electricity over the next 20 years to change"</b>
 
   • For our analysis on what model to recommend to the client, we decided to compare four models, where I got to work with the RNN and Linear Regressor
   
