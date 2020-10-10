@@ -4,13 +4,13 @@ Project: Taylor Fry Case Competition - RNN (Python) and Linear Regression Model 
 
 Date: 04/07/2020
 
-# Built with...
+## Built with...
 
 • Python ()
 
 • R
 
-# Motivation 
+## Motivation 
 
 Problem Statement:
 
@@ -20,7 +20,7 @@ Problem Statement:
 
   • For our analysis on what model to recommend to the client, we decided to compare four models, where I got to work with the RNN and Linear Regressor
   
-# Summary of Code
+## Summary of Code
   
   • Programmed and tested the predictive power of the RNN using a 70:30 training-test split
   
@@ -28,7 +28,7 @@ Problem Statement:
   
   • Programmed and tested the predictive power of the LM using a 70:30 training-test split
   
-# Summary of Results
+## Summary of Results
   • Used the square root of the predictive mean squared error (PMSE) to compute the accuracies of each model
   
   • PMSE of RNN = 
