@@ -33,6 +33,6 @@ Problem Statement:
   
   • PMSE of RNN = 
   
-  • PMSE of LM = 
+  • PMSE of LM = (2933.49)^2
   
   • The results of this analysis were compared to that of two other models (SARIMAX (with fourier terms) and TBATS) for our model recommendation
