@@ -6,7 +6,7 @@ Date: 04/07/2020
 
 ## Built with...
 
-• Python ()
+• Python (pandas, numpy, pyplot (matplotlib), tensorflow, keras)
 
 • R (caret)
 
