@@ -8,7 +8,19 @@ Date: 04/07/2020
 
 • Python ()
 
-• R
+• R (caret)
+
+## File Dictionary
+
+• <b>TaylorFry Linear Regressor.R</b>:</b> R code used for programming/implementing the Multiple Linear Regression model
+
+• <b>TF2020 Linear Regressor.png:</b> Time series plot showing the predictions of the model on the testing set
+
+• <b>TF2020 Actual Results in R.png:</b> Time series plot showing the actual values for Electricity Demand from the testing set - shown in R
+
+• <b>train_1-7.csv:</b> Dataset used for training both models (csv file)
+
+• <b>test_1-7.csv:</b> Dataset used for testing both models (csv file)
 
 ## Motivation 
 
@@ -22,17 +34,17 @@ Problem Statement:
   
 ## Summary of Code
   
-  • Programmed and tested the predictive power of the RNN using a 70:30 training-test split
+  • Programmed and tested the predictive power of the RNN using a ~70:30 training-test split
   
-  • Created dummy variables using the date field in R for the regression model - to preserve the seasonality over time (as seen in the EDA)
+  • Created dummy variables out of the dayHour and Month field in R for the regression model - as to preserve the seasonality over time (as seen in the EDA)
   
-  • Programmed and tested the predictive power of the LM using a 70:30 training-test split
+  • Programmed and tested the predictive power of the LM using a ~70:30 training-test split
   
 ## Summary of Results
   • Used the square root of the predictive mean squared error (PMSE) to compute the accuracies of each model
   
   • PMSE of RNN = 
   
-  • PMSE of LM = (2933.49)^2
+  • PMSE of LM = (1896.412)^2 = 3596378
   
   • The results of this analysis were compared to that of two other models (SARIMAX (with fourier terms) and TBATS) for our model recommendation
