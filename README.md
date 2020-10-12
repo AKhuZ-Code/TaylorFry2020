@@ -14,11 +14,15 @@ Date: 04/07/2020
 
 • <b>TaylorFry RNN.py</b>: Python code used for programming/implementing the RNN
 
-• <b>TF2020 Predicted vs Actual in Python.png</b>: Time series plot of the predicted values compared with the plot of the actual values - picture taken from having code in Jupyter Notebook
+• <b>TF2020 Predicted vs Actual in Python.png</b>: Time series comparison (screenshot taken from having code in Jupyter Notebook)
+
+   - <b>Left graph</b>: Time series plot of the predicted values (from the RNN) on the testing set
+   
+   - <b>Right graph</b>: Time series plot of the actual values from the testing set
 
 • <b>TaylorFry Linear Regressor.R</b>: R code used for programming/implementing the Multiple Linear Regression model
 
-• <b>TF2020 Linear Regressor.png:</b> Time series plot showing the predictions of the model on the testing set
+• <b>TF2020 Linear Regressor.png:</b> Time series plot showing the the  on the testing set
 
 • <b>TF2020 Actual Results in R.png:</b> Time series plot showing the actual values for Electricity Demand from the testing set - shown in R
 
