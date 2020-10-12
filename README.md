@@ -47,8 +47,8 @@ Problem Statement:
 ## Summary of Results
   • Used the square root of the predictive mean squared error (PMSE) to compute the accuracies of each model
   
-  • PMSE of RNN = (386.43)^2 = 
+  • PMSE of RNN = (386.43)^2; 149326
   
-  • PMSE of LM = (1896.412)^2 = 3596378
+  • PMSE of LM = (1896.412)^2; 3596378
   
   • The results of this analysis were compared to that of two other models (SARIMAX (with fourier terms) and TBATS) for our model recommendation
