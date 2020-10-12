@@ -47,7 +47,7 @@ Problem Statement:
 ## Summary of Results
   • Used the square root of the predictive mean squared error (PMSE) to compute the accuracies of each model
   
-  • PMSE of RNN = 
+  • PMSE of RNN = (386.43)^2 = 
   
   • PMSE of LM = (1896.412)^2 = 3596378
   
