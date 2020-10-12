@@ -14,7 +14,7 @@ Date: 04/07/2020
 
 • <b>TaylorFry RNN.py</b>: Python code used for programming/implementing the RNN
 
-• <b>TF2020 Predicted vs Actual in Python.png</b>: Time series comparison - predicted vs actual values (screenshot taken from having code in Jupyter Notebook)
+• <b>TF2020 Actual vs Predicted in Python.png</b>: Time series comparison - actual vs predicted values
 
 • <b>TaylorFry Linear Regressor.R</b>: R code used for programming/implementing the Multiple Linear Regression model
 
