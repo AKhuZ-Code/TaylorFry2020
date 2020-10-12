@@ -18,9 +18,9 @@ Date: 04/07/2020
 
 • <b>TaylorFry Linear Regressor.R</b>: R code used for programming/implementing the Multiple Linear Regression model
 
-• <b>TF2020 Linear Regressor.png:</b> Time series plot showing the predicted values (from the Linear Regressor) using the testing set
-
 • <b>TF2020 Actual Results in R.png:</b> Time series plot showing the actual values for Electricity Demand from the testing set - shown in R
+
+• <b>TF2020 Predicted Results in R.png:</b> Time series plot showing the predicted values (from the Linear Regressor) using the testing set
 
 • <b>train_1-7.csv:</b> Dataset used for training both models (csv file)
 
