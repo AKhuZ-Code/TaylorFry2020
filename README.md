@@ -12,7 +12,11 @@ Date: 04/07/2020
 
 ## File Dictionary
 
-• <b>TaylorFry Linear Regressor.R</b>:</b> R code used for programming/implementing the Multiple Linear Regression model
+• <b>TaylorFry RNN.py</b>: Python code used for programming/implementing the RNN
+
+• <b>TF2020 Predicted vs Actual in Python.png</b>: Time series plot of the predicted values compared with the plot of the actual values - picture taken from having code in Jupyter Notebook
+
+• <b>TaylorFry Linear Regressor.R</b>: R code used for programming/implementing the Multiple Linear Regression model
 
 • <b>TF2020 Linear Regressor.png:</b> Time series plot showing the predictions of the model on the testing set
 
